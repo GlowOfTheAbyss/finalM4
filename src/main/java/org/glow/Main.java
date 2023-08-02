@@ -94,6 +94,8 @@ public class Main {
 
         return sessionFactory;
 
+        // test
+
     }
 
     private void shutdown() {
